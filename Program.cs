@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Use command 'dotnet run PATH_TO_FILE' to run the program.");
